@@ -23,3 +23,28 @@ c:\users\meker\documents\visual studio 2012\Projects\FontAwesomeSuperStarsRating
 c:\users\meker\documents\visual studio 2012\Projects\FontAwesomeSuperStarsRating\FontAwesomeSuperStarsRating\obj\Debug\FontAwesomeSuperStarsRating.dll
 c:\users\meker\documents\visual studio 2012\Projects\FontAwesomeSuperStarsRating\FontAwesomeSuperStarsRating\obj\Debug\FontAwesomeSuperStarsRating.pdb
 c:\users\meker\documents\visual studio 2012\Projects\FontAwesomeSuperStarsRating\FontAwesomeSuperStarsRating\obj\Debug\FontAwesomeSuperStarsRating.csprojResolveAssemblyReference.cache
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\FontAwesomeSuperStarsRating.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\FontAwesomeSuperStarsRating.pdb
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\Antlr3.Runtime.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\EntityFramework.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\Microsoft.Web.Infrastructure.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\Newtonsoft.Json.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.Mvc.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.Optimization.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.Providers.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.Razor.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.WebPages.Deployment.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.WebPages.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.WebPages.Razor.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\WebGrease.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\EntityFramework.xml
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\Newtonsoft.Json.xml
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.Mvc.xml
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.Razor.xml
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.WebPages.xml
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.WebPages.Deployment.xml
+C:\Repos\trunk\FontAwesomeSuperStarsRating\bin\System.Web.WebPages.Razor.xml
+C:\Repos\trunk\FontAwesomeSuperStarsRating\obj\Debug\FontAwesomeSuperStarsRating.csprojResolveAssemblyReference.cache
+C:\Repos\trunk\FontAwesomeSuperStarsRating\obj\Debug\FontAwesomeSuperStarsRating.dll
+C:\Repos\trunk\FontAwesomeSuperStarsRating\obj\Debug\FontAwesomeSuperStarsRating.pdb
