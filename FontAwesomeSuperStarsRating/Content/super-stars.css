@@ -1,0 +1,20 @@
+﻿.super-stars {
+    font-size: 20px;
+}
+
+    .super-stars i {
+        margin-right: 1px;
+    }
+
+    .super-stars.default {
+        color: #FFC109;
+    }
+
+    .super-stars.rating {
+        font-size: 24px;
+        cursor: pointer;
+    }
+
+        .super-stars.rating i {
+            margin-right: 2px;
+        }
